@@ -13,7 +13,7 @@ The app allows you to rotate and zoom the slide label using the keyboard.
 
 ## Download
 
-Download the MAC version of the app - [here](https://github.com/c-arthurs/WSIname/releases/download/v1.0.0/WSIrename_Mac.app.zip)
+Download the MAC version of the app - [here](https://github.com/Pathomix/WSIrename/releases/download/v1.0.1/WSIrename_mac.app.zip)
 
 <details>
   <summary>Notes on mac app</summary><p align="left">
