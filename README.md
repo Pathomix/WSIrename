@@ -14,7 +14,7 @@ The app allows you to rotate and zoom the slide label using the keyboard.
 
 ## Usage
 
-Download the MAC version of the app - [here](https://github.com/c-arthurs/WSIname/releases/download/v1.0.0/WSIrename_Mac.app.zip)
+Download the MAC version of the app - [here](https://github.com/Pathomix/WSIrename/releases/download/v1.0.1/WSIrename_mac.app.zip)
 
 <details>
   <summary>Notes on mac app</summary><p align="left">
@@ -22,12 +22,11 @@ Download the MAC version of the app - [here](https://github.com/c-arthurs/WSInam
   The user may have to right click and select open to get it to open for the first time</a><br>
 </details><br>
 
-<!-- Download the PC version of the app - [here](https://github.com/c-arthurs/labelstrip/releases/download/v0.2/labelstrip_windows.exe) -->
-
-<!-- <details> -->
-<!--   <summary>Notes on PC app</summary><p align="left"> -->
-<!--   The pc version has been tested using only SVS files but should work on NDPI also </a><br> -->
-<!-- </details> -->
+Download the PC version of the app - [here](https://github.com/Pathomix/WSIrename/releases/download/v1.0.1/WSIrename_pc.exe)
+<details>
+  <summary>Notes on PC app</summary><p align="left">
+  The pc version has been tested on svs and ndpi images. This version is unsigned so wil require clearance from the user to run. The full version has a certificate.</a><br>
+</details>
 
 ### WARNING
 The program has been tested on svs and ndpi wsi files and should work on anything supported by bioformats.
